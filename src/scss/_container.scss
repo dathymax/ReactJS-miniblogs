@@ -1,0 +1,10 @@
+.container {
+    background-color: $whiteColorF0;
+    padding: 30px;
+}
+.content {
+    max-width: 1240px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}

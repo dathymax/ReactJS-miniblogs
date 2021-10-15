@@ -1,0 +1,29 @@
+.home {
+    max-width: 900px;
+    &__item{
+        overflow: auto;
+        padding: 20px;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        margin-bottom: 20px;
+        border: 2px solid $whiteColorE2;
+        border-radius: 10px;
+        background-color: $whiteColor;
+        width: 100%;
+    }
+    &__img {
+        width: 280px;
+        height: 280px;
+        border-radius: 5px;
+        margin-right: 30px;
+    }
+    &__link {
+        color: $whiteColorA;
+        margin-left: 10px;
+    }
+    &__text {
+        padding: 20px 20px 20px 0;
+    }
+}

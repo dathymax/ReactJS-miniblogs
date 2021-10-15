@@ -1,0 +1,49 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "img": "./images/blog1.jpg",
+            "heading": "Wherever far wow thus a squirrel raccoon jeez jaguar this from along",
+            "date": "JUNE 25, 2020",
+            "category": "ART",
+            "details": "The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word \"and\" and the Little Blind",
+            "content": ""
+        },
+        {
+            "id": 2,
+            "img": "./images/blog2.jpg",
+            "heading": "Coffe sugar, chicory seasonal espresso barista americano",
+            "date": "JUNE 25, 2020",
+            "category": "ART",
+            "details": "Arista, percolator, cream, aromatic, fair trade, breve body instant lungo blue mountain cappuccino. Americano aroma mug espresso latte crema milk redeye acerbic. Galão robusta instant, decaffeinated, so fair trade wings.",
+            "content": ""
+        },
+        {
+            "id": 3,
+            "img": "./images/blog3.jpg",
+            "heading": "According a funnily until pre-set or arrogant well cheerful",
+            "date": "JUNE 25, 2020",
+            "category": "ART",
+            "details": "Single shot cultivar beans as chicory caffeine. Medium brewed, milk extra that froth pumpkin spice mocha. Whipped redeye pumkin spice sweet, extraction to go macchiato acerbic steamed filter. Robusta grounds decaffeinated.",
+            "content": ""
+        },
+        {
+            "id": 4,
+            "img": "./images/blog4.jpg",
+            "heading": "Overlaid the jeepers uselessly much excluding",
+            "date": "JUNE 25, 2020",
+            "category": "ART",
+            "details": "Far far away, behind the word mountains, far from the countris Vokalia and Consonatia, there live the blined texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+            "content": ""
+        },
+        {
+            "id": 5,
+            "img": "./images/blog5.jpg",
+            "heading": "Coffee variety macchiato, as organic ut variety caffeine americano",
+            "date": "JUNE 25, 2020",
+            "category": "ART",
+            "details": "Saucer, crema carajillo, bar, mocha medium, latte cappucchino and espresso acerbic to go. Coffe, irish foam turkish coffe blue mountain seasonal. Turkish grinder medium, plunger pot, coffe viennese crema galão macchiato.",
+            "content": ""
+        }
+    ]
+}

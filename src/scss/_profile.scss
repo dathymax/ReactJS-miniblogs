@@ -1,0 +1,15 @@
+.profile {
+    max-width: 315px;
+    max-height: 800px;
+    padding: 30px;
+    text-align: center;
+    background-color: $whiteColor;
+    border: 1px solid $whiteColorE2;
+    border-radius: 10px;
+    &__img {
+        width: 240px;
+        height: 240px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+}
